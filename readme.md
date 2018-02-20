@@ -1,7 +1,7 @@
 # Shortcode for Tribe Event Ticket Plus
 
-This WordpressPlugin adds a shortcode to  Tribe Event Ticket Plus.
-https://theeventscalendar.com/product/wordpress-event-tickets-plus/
+This WordpressPlugin adds a shortcode to  [Tribe Event Ticket Plus](https://theeventscalendar.com/product/wordpress-event-tickets-plus/).
+
 
 ## What it does
 
