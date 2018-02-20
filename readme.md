@@ -3,9 +3,10 @@
 This WordpressPlugin adds a shortcode to  Tribe Event Ticket Plus.
 https://theeventscalendar.com/product/wordpress-event-tickets-plus/
 
+# What it does
 
 
-It allows you to use a shortcode to display the ticket sale. 
+It allows you to use a shortcode for the ticket sale. 
 
 # Limits
 it only works if you have only one shared pool of tickets.
@@ -13,7 +14,7 @@ Some text is hardcoded in German Language.
 
 
 
-#Usage
+# Usage
 
 Copy the shortcode to your page or post
 
