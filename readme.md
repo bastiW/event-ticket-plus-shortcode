@@ -13,7 +13,7 @@ It allows you to use a shortcode for the ticket sale.
 - it only works if you have only one shared pool of tickets.
 - Some text is hardcoded in German Language. 
 - It is quick and dirty code!
-
+- Only works with WooCommmerce
 
 
 ## Usage
