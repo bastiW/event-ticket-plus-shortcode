@@ -6,6 +6,8 @@ https://theeventscalendar.com/product/wordpress-event-tickets-plus/
 ## What it does
 
 It allows you to use a shortcode for the ticket sale. 
+![result using the shortcode wor Event Ticket Plus](https://theeventscalendar.com/content/uploads/2018/02/ad543f036fbf3112.jpg)
+
 
 ## Limits
 it only works if you have only one shared pool of tickets.
