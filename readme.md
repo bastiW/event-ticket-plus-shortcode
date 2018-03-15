@@ -15,6 +15,13 @@ It allows you to use a shortcode for the ticket sale.
 - It is quick and dirty code!
 - Only works with WooCommmerce
 
+## Installation 
+- Create a folder on your Wordpress Installation /wp-content/plugins/event-ticket-plus-shortcode
+- Copy event-ticket-plus-shortcode.php to it
+- Go the wordpress Backend and activate it
+
+- Change the code for your needs!
+
 
 ## Usage
 
